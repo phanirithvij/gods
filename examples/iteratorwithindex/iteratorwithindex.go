@@ -6,7 +6,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/emirpasic/gods/sets/treeset"
+	"github.com/kopite008/gods/sets/treeset"
 )
 
 // IteratorWithIndexExample to demonstrate basic usage of IteratorWithIndex

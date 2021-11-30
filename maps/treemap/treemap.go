@@ -13,9 +13,9 @@ package treemap
 
 import (
 	"fmt"
-	"github.com/emirpasic/gods/maps"
-	rbt "github.com/emirpasic/gods/trees/redblacktree"
-	"github.com/emirpasic/gods/utils"
+	"github.com/kopite008/gods/maps"
+	rbt "github.com/kopite008/gods/trees/redblacktree"
+	"github.com/kopite008/gods/utils"
 	"strings"
 )
 

@@ -6,7 +6,7 @@ package hashbidimap
 
 import (
 	"encoding/json"
-	"github.com/emirpasic/gods/containers"
+	"github.com/kopite008/gods/containers"
 )
 
 func assertSerializationImplementation() {
